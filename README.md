@@ -58,6 +58,13 @@
   </a>
 </p>
 
+- Mobile Developer
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,swift" />
+  </a>
+</p>
+
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
