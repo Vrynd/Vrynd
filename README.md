@@ -51,17 +51,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Web Developer
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,py,C#" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,Javascript,Tailwind,Materialui,php,laravel,java,py,C#" />
   </a>
 </p>
 
