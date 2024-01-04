@@ -56,7 +56,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,kotlin,flutter" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,py,C#" />
   </a>
 </p>
 
