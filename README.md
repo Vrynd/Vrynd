@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Java, Python, PHP, Laravel**
 
-- 📫 How to reach me **vryndhika**
+- 📫 How to reach me **vryndhika@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
