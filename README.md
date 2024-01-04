@@ -54,7 +54,7 @@
 - Web Developer
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,Javascript,Tailwind,Materialui,php,laravel,java,py,C#" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,materialui,php,laravel,java,py,C#" />
   </a>
 </p>
 
