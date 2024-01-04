@@ -55,31 +55,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Web Developer
+- Tools And Languange
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,materialui,php,laravel,java,py,C#" />
-  </a>
-</p>
-
-- Mobile Developer
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,swift" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma, linux,html,css,javascript,tailwind,materialui,php,laravel,py,C#,kotlin" />
   </a>
 </p>
 
