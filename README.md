@@ -26,17 +26,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I am currently studying at **Universitas Teknologi Yogyakarta (UTY)**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Web Developer**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at Github https://github.com/Vrynd?tab=repositories
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, PHP, Laravel**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📫 How to reach me **vryndhika**
 
 - ⚡ Fun fact **I think I'm funny**
 
