@@ -58,7 +58,7 @@
 - Tools And Languange
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,py,kotlin,vscode,idea,figma,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,java,py,kotlin,vscode,idea,figma,git,github,linux" />
   </a>
 </p>
 
